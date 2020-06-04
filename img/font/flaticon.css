@@ -1,0 +1,232 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+      display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-woman:before { content: "\f100"; }
+.flaticon-002-user:before { content: "\f101"; }
+.flaticon-003-avatar:before { content: "\f102"; }
+.flaticon-004-businessmen:before { content: "\f103"; }
+.flaticon-005-group-of-men:before { content: "\f104"; }
+.flaticon-006-user:before { content: "\f105"; }
+.flaticon-007-women:before { content: "\f106"; }
+.flaticon-008-connection:before { content: "\f107"; }
+.flaticon-009-id-card:before { content: "\f108"; }
+.flaticon-010-woman:before { content: "\f109"; }
+.flaticon-011-businesswoman:before { content: "\f10a"; }
+.flaticon-012-person:before { content: "\f10b"; }
+.flaticon-013-boy:before { content: "\f10c"; }
+.flaticon-014-businessman:before { content: "\f10d"; }
+.flaticon-015-group:before { content: "\f10e"; }
+.flaticon-016-tablet:before { content: "\f10f"; }
+.flaticon-017-woman:before { content: "\f110"; }
+.flaticon-018-woman:before { content: "\f111"; }
+.flaticon-019-businessmen:before { content: "\f112"; }
+.flaticon-020-group:before { content: "\f113"; }
+.flaticon-021-television:before { content: "\f114"; }
+.flaticon-022-placeholder:before { content: "\f115"; }
+.flaticon-023-user:before { content: "\f116"; }
+.flaticon-024-user:before { content: "\f117"; }
+.flaticon-025-user:before { content: "\f118"; }
+.flaticon-026-group:before { content: "\f119"; }
+.flaticon-027-placeholder:before { content: "\f11a"; }
+.flaticon-028-arrow:before { content: "\f11b"; }
+.flaticon-029-social-media:before { content: "\f11c"; }
+.flaticon-030-woman:before { content: "\f11d"; }
+.flaticon-031-man:before { content: "\f11e"; }
+.flaticon-032-woman:before { content: "\f11f"; }
+.flaticon-033-man:before { content: "\f120"; }
+.flaticon-034-female-user:before { content: "\f121"; }
+.flaticon-035-male-user:before { content: "\f122"; }
+.flaticon-036-boy:before { content: "\f123"; }
+.flaticon-037-profile:before { content: "\f124"; }
+.flaticon-038-graphic:before { content: "\f125"; }
+.flaticon-039-girl:before { content: "\f126"; }
+.flaticon-040-profile:before { content: "\f127"; }
+.flaticon-041-avatar:before { content: "\f128"; }
+.flaticon-042-women:before { content: "\f129"; }
+.flaticon-043-profile:before { content: "\f12a"; }
+.flaticon-044-circle:before { content: "\f12b"; }
+.flaticon-045-boy:before { content: "\f12c"; }
+.flaticon-046-woman:before { content: "\f12d"; }
+.flaticon-047-scheme:before { content: "\f12e"; }
+.flaticon-048-graphic:before { content: "\f12f"; }
+.flaticon-049-school:before { content: "\f130"; }
+.flaticon-050-girl:before { content: "\f131"; }
+.flaticon-051-businessman:before { content: "\f132"; }
+.flaticon-052-man:before { content: "\f133"; }
+.flaticon-053-girl:before { content: "\f134"; }
+.flaticon-054-graphic:before { content: "\f135"; }
+.flaticon-055-people:before { content: "\f136"; }
+.flaticon-056-statistics:before { content: "\f137"; }
+.flaticon-057-man:before { content: "\f138"; }
+.flaticon-058-woman:before { content: "\f139"; }
+.flaticon-059-photo:before { content: "\f13a"; }
+.flaticon-060-boy:before { content: "\f13b"; }
+.flaticon-061-networking:before { content: "\f13c"; }
+.flaticon-062-delete:before { content: "\f13d"; }
+.flaticon-063-communication:before { content: "\f13e"; }
+.flaticon-064-telemarketer:before { content: "\f13f"; }
+.flaticon-065-woman:before { content: "\f140"; }
+.flaticon-066-people:before { content: "\f141"; }
+.flaticon-067-male:before { content: "\f142"; }
+.flaticon-068-girl:before { content: "\f143"; }
+.flaticon-069-man:before { content: "\f144"; }
+.flaticon-070-statistics:before { content: "\f145"; }
+.flaticon-071-men:before { content: "\f146"; }
+.flaticon-072-businessmen:before { content: "\f147"; }
+.flaticon-073-telemarketer:before { content: "\f148"; }
+.flaticon-074-woman:before { content: "\f149"; }
+.flaticon-075-man:before { content: "\f14a"; }
+.flaticon-076-woman:before { content: "\f14b"; }
+.flaticon-077-group:before { content: "\f14c"; }
+.flaticon-078-businessmen:before { content: "\f14d"; }
+.flaticon-079-woman:before { content: "\f14e"; }
+.flaticon-080-girl:before { content: "\f14f"; }
+.flaticon-081-group:before { content: "\f150"; }
+.flaticon-082-men:before { content: "\f151"; }
+.flaticon-083-man:before { content: "\f152"; }
+.flaticon-084-boy:before { content: "\f153"; }
+.flaticon-085-social:before { content: "\f154"; }
+.flaticon-086-woman:before { content: "\f155"; }
+.flaticon-087-girl:before { content: "\f156"; }
+.flaticon-088-girl:before { content: "\f157"; }
+.flaticon-089-boy:before { content: "\f158"; }
+.flaticon-090-girl:before { content: "\f159"; }
+.flaticon-091-arrows:before { content: "\f15a"; }
+.flaticon-092-group:before { content: "\f15b"; }
+.flaticon-093-networking:before { content: "\f15c"; }
+.flaticon-094-woman:before { content: "\f15d"; }
+.flaticon-095-tablet:before { content: "\f15e"; }
+.flaticon-096-group:before { content: "\f15f"; }
+.flaticon-097-group:before { content: "\f160"; }
+.flaticon-098-man:before { content: "\f161"; }
+.flaticon-099-girl:before { content: "\f162"; }
+.flaticon-100-boy:before { content: "\f163"; }
+.flaticon-101-profile:before { content: "\f164"; }
+.flaticon-102-statistics:before { content: "\f165"; }
+.flaticon-103-social-network:before { content: "\f166"; }
+.flaticon-104-group:before { content: "\f167"; }
+.flaticon-105-group:before { content: "\f168"; }
+.flaticon-106-group:before { content: "\f169"; }
+.flaticon-107-woman:before { content: "\f16a"; }
+.flaticon-108-group:before { content: "\f16b"; }
+.flaticon-109-screen:before { content: "\f16c"; }
+.flaticon-110-woman:before { content: "\f16d"; }
+.flaticon-111-woman:before { content: "\f16e"; }
+.flaticon-112-group:before { content: "\f16f"; }
+.flaticon-113-users:before { content: "\f170"; }
+.flaticon-114-female:before { content: "\f171"; }
+.flaticon-115-men:before { content: "\f172"; }
+.flaticon-116-screen:before { content: "\f173"; }
+.flaticon-117-woman:before { content: "\f174"; }
+.flaticon-118-woman:before { content: "\f175"; }
+.flaticon-119-woman:before { content: "\f176"; }
+.flaticon-120-man:before { content: "\f177"; }
+.flaticon-121-man:before { content: "\f178"; }
+.flaticon-122-screen:before { content: "\f179"; }
+.flaticon-123-boy:before { content: "\f17a"; }
+.flaticon-124-man:before { content: "\f17b"; }
+.flaticon-125-group:before { content: "\f17c"; }
+.flaticon-126-man:before { content: "\f17d"; }
+.flaticon-127-boy:before { content: "\f17e"; }
+.flaticon-128-group:before { content: "\f17f"; }
+.flaticon-129-girl:before { content: "\f180"; }
+.flaticon-130-woman:before { content: "\f181"; }
+.flaticon-131-id-card:before { content: "\f182"; }
+.flaticon-132-man:before { content: "\f183"; }
+.flaticon-133-man:before { content: "\f184"; }
+.flaticon-134-woman:before { content: "\f185"; }
+.flaticon-135-identification:before { content: "\f186"; }
+.flaticon-136-women:before { content: "\f187"; }
+.flaticon-137-woman:before { content: "\f188"; }
+.flaticon-138-group:before { content: "\f189"; }
+.flaticon-139-woman:before { content: "\f18a"; }
+.flaticon-140-woman:before { content: "\f18b"; }
+.flaticon-141-woman:before { content: "\f18c"; }
+.flaticon-142-man:before { content: "\f18d"; }
+.flaticon-143-people:before { content: "\f18e"; }
+.flaticon-144-businessman:before { content: "\f18f"; }
+.flaticon-145-profile:before { content: "\f190"; }
+.flaticon-146-search-user:before { content: "\f191"; }
+.flaticon-147-girl:before { content: "\f192"; }
+.flaticon-148-group:before { content: "\f193"; }
+.flaticon-149-girl:before { content: "\f194"; }
+.flaticon-150-businessmen:before { content: "\f195"; }
+.flaticon-151-notebook:before { content: "\f196"; }
+.flaticon-152-networking:before { content: "\f197"; }
+.flaticon-153-man:before { content: "\f198"; }
+.flaticon-154-woman:before { content: "\f199"; }
+.flaticon-155-man:before { content: "\f19a"; }
+.flaticon-156-man:before { content: "\f19b"; }
+.flaticon-157-arrows:before { content: "\f19c"; }
+.flaticon-158-group:before { content: "\f19d"; }
+.flaticon-159-man:before { content: "\f19e"; }
+.flaticon-160-man:before { content: "\f19f"; }
+.flaticon-161-hierarchy:before { content: "\f1a0"; }
+.flaticon-162-woman:before { content: "\f1a1"; }
+.flaticon-163-television:before { content: "\f1a2"; }
+.flaticon-164-women:before { content: "\f1a3"; }
+.flaticon-165-woman:before { content: "\f1a4"; }
+.flaticon-166-person:before { content: "\f1a5"; }
+.flaticon-167-man:before { content: "\f1a6"; }
+.flaticon-168-man:before { content: "\f1a7"; }
+.flaticon-169-woman:before { content: "\f1a8"; }
+.flaticon-170-group:before { content: "\f1a9"; }
+.flaticon-171-women:before { content: "\f1aa"; }
+.flaticon-172-man:before { content: "\f1ab"; }
+.flaticon-173-woman:before { content: "\f1ac"; }
+.flaticon-174-man:before { content: "\f1ad"; }
+.flaticon-175-man:before { content: "\f1ae"; }
+.flaticon-176-man:before { content: "\f1af"; }
+.flaticon-177-group:before { content: "\f1b0"; }
+.flaticon-178-men:before { content: "\f1b1"; }
+.flaticon-179-woman:before { content: "\f1b2"; }
+.flaticon-180-businessmen:before { content: "\f1b3"; }
+.flaticon-181-voice:before { content: "\f1b4"; }
+.flaticon-182-man:before { content: "\f1b5"; }
+.flaticon-183-man:before { content: "\f1b6"; }
+.flaticon-184-man:before { content: "\f1b7"; }
+.flaticon-185-man:before { content: "\f1b8"; }
+.flaticon-186-man:before { content: "\f1b9"; }
+.flaticon-187-avatar:before { content: "\f1ba"; }
+.flaticon-188-man:before { content: "\f1bb"; }
+.flaticon-189-man:before { content: "\f1bc"; }
+.flaticon-190-man:before { content: "\f1bd"; }
+.flaticon-191-woman:before { content: "\f1be"; }
+.flaticon-192-man:before { content: "\f1bf"; }
+.flaticon-193-group:before { content: "\f1c0"; }
+.flaticon-194-businessman:before { content: "\f1c1"; }
+.flaticon-195-man:before { content: "\f1c2"; }
+.flaticon-196-businessman:before { content: "\f1c3"; }
+.flaticon-197-woman:before { content: "\f1c4"; }
